@@ -253,7 +253,6 @@
 }
 
 .section-title_theme_dark {
-  margin: 0;
   padding: 0;
   margin: 90px auto 20px auto;
   z-index: 1000;
@@ -329,7 +328,6 @@
 
 .footer__author {
   margin: 0;
-  padding: 0;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
