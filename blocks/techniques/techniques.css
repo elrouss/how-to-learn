@@ -1,0 +1,6 @@
+.techniques {
+  margin: 0 auto;
+  max-width: 80%;
+  display: flex;
+  flex-direction: column;
+}
