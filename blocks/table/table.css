@@ -6,4 +6,5 @@
   flex-wrap: wrap;
   align-items: baseline;
   justify-content: space-between;
+  list-style-type: none;
 }
