@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://ibb.co/7yQMhtK"><img src="https://i.ibb.co/KyD4nxW/2022-11-21-03-11-52.png" alt="2022-11-21-03-11-52" border="0"></a>
+  <img src="https://i.ibb.co/KyD4nxW/2022-11-21-03-11-52.png" alt="2022-11-21-03-11-52" border="0">
 </div>
 
 # "Научиться учиться" (основы HTML и CSS)
